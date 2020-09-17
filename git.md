@@ -65,6 +65,26 @@ $ git commit -m '커밋메시지'
   $ git log -1 --oneline
   ```
 
+### 3. Repository
+
+> Repository 경로 설정
+
+- Local에서 어떤 Remote Git Repository로 push 할지 설정
+
+```bash
+$ git remote add origin <remote 깃 repository 경로>
+```
+
+### 4. Push
+
+> Local에서 Remote Repository 전송
+
+```bash
+git push -u origin master
+```
+
+
+
 ## 상태 확인
 
 > git에 대한 모든 정보는 status에서 확인할 수 있다.
