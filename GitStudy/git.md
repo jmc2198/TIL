@@ -83,7 +83,9 @@ $ git remote add origin <remote 깃 repository 경로>
 git push -u origin master
 ```
 
+### Git 구성도
 
+![git구성](md-images/git%EA%B5%AC%EC%84%B1.PNG)
 
 ## 상태 확인
 
